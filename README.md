@@ -12,6 +12,7 @@ usage: usage: N-gram Language Model [-h] --input_dir INPUT_DIR --model MODEL
 ### generate.py (estimated running time 10 s)
 ```
 usage: Generating text with pretrained N-gram Language Model [-h] --model MODEL [--prefix PREFIX] [--length LENGTH]
+
 --model Location of the model file
 --prefix  
 --length  
